@@ -113,9 +113,9 @@ const maintenanceHTML = `
         </p>
         <div class="links-container">
             <div class="link-item">
-                <a href="http://cam-chon.ddns.net" target="_blank" rel="noopener noreferrer">Trang Cấm Chọn (DDNS)</a>
+                <a href="https://cam-chon.ddns.net" target="_blank" rel="noopener noreferrer">Trang Cấm Chọn (DDNS)</a>
                
-                <div class="link-label">http://cam-chon.ddns.net</div>
+                <div class="link-label">https://cam-chon.ddns.net</div>
                  <span class="recommended">(Khuyên dùng)</span>
             </div>
             <div class="link-item">
