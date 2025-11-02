@@ -113,13 +113,13 @@ const maintenanceHTML = `
         </p>
         <div class="links-container">
             <div class="link-item">
-                <a href="https://cam-chon.ddns.net" target="_blank" rel="noopener noreferrer">Trang Cấm Chọn (DDNS)</a>
+                <a href="https://cam-chon.ddns.net" target="_blank" rel="noopener noreferrer">Cấm Chọn (DDNS)</a>
                
                 <div class="link-label">https://cam-chon.ddns.net</div>
                  <span class="recommended">(Khuyên dùng)</span>
             </div>
             <div class="link-item">
-                <a href="https://banpick-v2.up.railway.app/" target="_blank" rel="noopener noreferrer">Trang Ban Pick V2 (Railway)</a>
+                <a href="https://banpick-v2.up.railway.app/" target="_blank" rel="noopener noreferrer">Ban Pick V2 (Railway)</a>
                 <div class="link-label">https://banpick-v2.up.railway.app/</div>
             </div>
         </div>
