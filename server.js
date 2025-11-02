@@ -102,7 +102,7 @@ const maintenanceHTML = `
 </head>
 <body>
     <div class="container">
-        <h1>🚧 Thông Báo Bảo Trì 🚧</h1>
+        <h1>Thông Báo Bảo Trì</h1>
         <p>
             Xin lỗi, trang web của chúng tôi đang trong quá trình bảo trì để nâng cấp hệ thống.
             Vui lòng quay lại sau.
