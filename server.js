@@ -104,7 +104,7 @@ const maintenanceHTML = `
     <div class="container">
         <h1>🚧 Thông Báo Bảo Trì 🚧</h1>
         <p>
-            Xin lỗi quý khách, trang web của chúng tôi đang trong quá trình bảo trì để nâng cấp hệ thống.
+            Xin lỗi, trang web của chúng tôi đang trong quá trình bảo trì để nâng cấp hệ thống.
             Vui lòng quay lại sau.
         </p>
         <div class="sad-icon">:(</div>
